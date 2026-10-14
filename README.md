@@ -2,14 +2,7 @@
 
 Gestion de Proyectos Software 2026/27
 
-Integrantes: Cristian Garcia Del Olmo, Izan [APELLIDOS], Jaime [APELLIDOS]
-
-## Contenido del zip
-
-- `v1/diagnostico_cmmi_v1.py`  Version 1 (desarrollada por el equipo, sin dependencias)
-- `v2/diagnostico_cmmi_v2.py`  Version 2 (desarrollada con ayuda de IA)
-- `PEC1_Memoria.docx`          Documento con herramienta de IA, capturas y comparativa
-- `requirements.txt`
+Integrantes: Cristian Garcia Del Olmo, Izan Jimenez Jimenez, Jaime Cristobal Martin
 
 ## Requisitos
 
