@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/AI_Assisted-OpenAI_API-412991?logo=openai&logoColor=white" alt="OpenAI API" />
 </p>
 
+<p align="center">
+  <img src="docs/diagnostico_gui.png" alt="Interfaz de Diagnóstico CMMI Nivel 2" width="95%" />
+</p>
+
 ---
 
 ## 🎯 Objetivo y Contexto
